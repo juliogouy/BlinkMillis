@@ -4,7 +4,7 @@ const char WIFI_SSID[] = "Baloo";
 const char WIFI_PASS[] = "Pswd123$";
 
 const int LED_PIN = LED_BUILTIN;
-const unsigned long BLINK_INTERVAL = 1000;
+const unsigned long BLINK_INTERVAL = 500;
 
 unsigned long previousMillis = 0;
 int ledState = LOW;

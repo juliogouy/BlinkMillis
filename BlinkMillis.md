@@ -17,7 +17,7 @@ Arduino UNO R4 WiFi project that blinks the built-in LED using `millis()` and co
 | ---------------- | ---------- | ---------------------------- |
 | `WIFI_SSID`      | `Baloo`    | WiFi network name            |
 | `WIFI_PASS`      | `Pswd123$` | WiFi password                |
-| `BLINK_INTERVAL` | `1000`     | LED toggle interval (ms)     |
+| `BLINK_INTERVAL` | `500`      | LED toggle interval (ms)     |
 | `Serial baud`    | `115200`   | Serial monitor baud rate     |
 
 ## Serial Output
